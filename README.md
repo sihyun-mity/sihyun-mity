@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=transparent&section=header&text=sihyun-mity&fontColor=cf9fff)
+
+<hr />
+
 ### Hi there 👋
 
 <!--
