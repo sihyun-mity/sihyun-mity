@@ -4,15 +4,11 @@
 
 <h3 align="center">💻 Tech Stack</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML-ffa46f?style=flat-square&logo=HTML5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/Javascript-fffbdd?style=flat-square&logo=Javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Typescript-lightblue?style=flat-square&logo=TypeScript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/React-0070e0?style=flat-square&logo=React&logoColor=61DAFB" />
-</div>
-<div align="center">
   <img src="https://img.shields.io/badge/Gatsby-f6edfa?style=flat-square&logo=gatsby&logoColor=663399" />
   <img src="https://img.shields.io/badge/Next.js-fff?style=flat-square&logo=nextdotjs&logoColor=000" />
-<img src="https://img.shields.io/badge/AngularJS-f2f2f2?style=flat-square&logo=angularjs&logoColor=E23237" />
+  <img src="https://img.shields.io/badge/AngularJS-f2f2f2?style=flat-square&logo=angularjs&logoColor=E23237" />
+  <img src="https://img.shields.io/badge/Typescript-lightblue?style=flat-square&logo=TypeScript&logoColor=3178C6" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/CSS-35aaff?style=flat-square&logo=CSS3&logoColor=1572B6" />
@@ -20,7 +16,11 @@
   <img src="https://img.shields.io/badge/styled--components-edd1da?style=flat-square&logo=styled-components&logoColor=DB7093" />
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/Electron-36384c?style=flat-square&logo=electron&logoColor=9feaf9" />
+  <img src="https://img.shields.io/badge/Flutter-8daceb?style=flat-square&logo=Flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/Dart-89c3ff?style=flat-square&logo=Dart&logoColor=0175C2" />
+  <img src="https://img.shields.io/badge/Electron-36384c?style=flat-square&logo=electron&logoColor=9feaf9" />
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/Git-fdc6bc?style=flat-square&logo=Git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/AWS-bcbcbc?style=flat-square&logo=Amazon AWS&logoColor=232F3E" />
   <img src="https://img.shields.io/badge/JSON-eee?style=flat-square&logo=JSON&logoColor=000" />
