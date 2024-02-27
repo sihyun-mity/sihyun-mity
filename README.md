@@ -4,7 +4,7 @@
 
 <h3 align="center">💻 Tech Stack</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/React-0070e0?style=flat-square&logo=React&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React-007298?style=flat-square&logo=React&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Gatsby-f6edfa?style=flat-square&logo=gatsby&logoColor=663399" />
   <img src="https://img.shields.io/badge/Next.js-fff?style=flat-square&logo=nextdotjs&logoColor=000" />
   <img src="https://img.shields.io/badge/AngularJS-f2f2f2?style=flat-square&logo=angular&logoColor=E23237" />
@@ -17,7 +17,7 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-8daceb?style=flat-square&logo=Flutter&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/Dart-89c3ff?style=flat-square&logo=Dart&logoColor=0175C2" />
+  <img src="https://img.shields.io/badge/React Native-23272d?style=flat-square&logo=React&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Electron-36384c?style=flat-square&logo=electron&logoColor=9feaf9" />
 </div>
 <div align="center">
