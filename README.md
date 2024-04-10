@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/CSS-35aaff?style=flat-square&logo=CSS3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/SASS-e5b0cb?style=flat-square&logo=Sass&logoColor=CC6699" />
   <img src="https://img.shields.io/badge/styled--components-edd1da?style=flat-square&logo=styled-components&logoColor=DB7093" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-0B1120?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-8daceb?style=flat-square&logo=Flutter&logoColor=02569B" />
