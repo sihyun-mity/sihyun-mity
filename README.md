@@ -5,9 +5,9 @@
 <h3 align="center">💻 Tech Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/React-007298?style=flat-square&logo=React&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Gatsby-f6edfa?style=flat-square&logo=gatsby&logoColor=663399" />
   <img src="https://img.shields.io/badge/Next.js-fff?style=flat-square&logo=nextdotjs&logoColor=000" />
   <img src="https://img.shields.io/badge/AngularJS-f2f2f2?style=flat-square&logo=angular&logoColor=E23237" />
+  <img src="https://img.shields.io/badge/Gatsby-f6edfa?style=flat-square&logo=gatsby&logoColor=663399" />
   <img src="https://img.shields.io/badge/Typescript-lightblue?style=flat-square&logo=TypeScript&logoColor=3178C6" />
 </div>
 <div align="center">
