@@ -23,6 +23,6 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-fdc6bc?style=flat-square&logo=Git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/AWS-fb9a3e?style=flat-square&logo=Amazon AWS&logoColor=232F3E" />
+  <img src="https://img.shields.io/badge/AWS-fb9a3e?style=flat-square&logo=amazonwebservices&logoColor=232F3E" />
   <img src="https://img.shields.io/badge/Firebase-229ee2?style=flat-square&logo=Firebase&logoColor=FFCA28" />
 </div>
