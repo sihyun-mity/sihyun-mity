@@ -1,28 +1,61 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&section=header&text=sihyun-mity&fontColor=cf9fff)
+<!-- HEADER ─────────────────────────────────────────────────────── -->
 
-<hr color="#7F00FF" />
+<p align="center">
+  <a href="https://github.com/sihyun-mity">
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&height=220&color=8b5cf6&text=sihyun-mity&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20Crafting%20interfaces%20with%20care&descAlignY=60&descSize=16&descAlign=50"
+      alt=""
+    />
+  </a>
+</p>
 
-<h3 align="center">💻 Tech Stack</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/React-007298?style=flat-square&logo=React&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-fff?style=flat-square&logo=nextdotjs&logoColor=000" />
-  <img src="https://img.shields.io/badge/AngularJS-f2f2f2?style=flat-square&logo=angular&logoColor=E23237" />
-  <img src="https://img.shields.io/badge/Gatsby-f6edfa?style=flat-square&logo=gatsby&logoColor=663399" />
-  <img src="https://img.shields.io/badge/Typescript-lightblue?style=flat-square&logo=TypeScript&logoColor=3178C6" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/CSS-35aaff?style=flat-square&logo=CSS3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/SASS-e5b0cb?style=flat-square&logo=Sass&logoColor=CC6699" />
-  <img src="https://img.shields.io/badge/styled--components-edd1da?style=flat-square&logo=styled-components&logoColor=DB7093" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-0B1120?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-8daceb?style=flat-square&logo=Flutter&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/React Native-23272d?style=flat-square&logo=React&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Electron-36384c?style=flat-square&logo=electron&logoColor=9feaf9" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-fdc6bc?style=flat-square&logo=Git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/AWS-fb9a3e?style=flat-square&logo=task&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Firebase-229ee2?style=flat-square&logo=Firebase&logoColor=FFCA28" />
-</div>
+<!-- ABOUT × STACK ──────────────────────────────────────────────── -->
+
+<p align="center">
+  <img src="./assets/about.svg" alt="" height="170" />
+  &nbsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,gatsby,angular,ts,tailwind,sass,styledcomponents,css,dart,flutter,electron,aws,firebase,git&perline=5&theme=dark" alt="" />
+  </a>
+</p>
+
+<!-- GITHUB ─────────────────────────────────────────────────────── -->
+
+<h3 align="center">&nbsp;✦&nbsp; GitHub</h3>
+
+<p align="center">
+  <a href="https://github.com/sihyun-mity">
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api?username=sihyun-mity&show_icons=true&count_private=true&hide_rank=true&hide_border=true&bg_color=0f172a&title_color=a78bfa&icon_color=8b5cf6&text_color=cbd5e1&custom_title=GitHub%20Stats"
+      alt=""
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sihyun-mity">
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihyun-mity&layout=compact&hide=java,ruby,objective-c,objective-c%2B%2B,plpgsql,shell&hide_border=true&bg_color=0f172a&title_color=a78bfa&text_color=cbd5e1&langs_count=6&custom_title=Top%20Languages"
+      alt=""
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sihyun-mity">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=sihyun-mity&bg_color=0f172a&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&hide_border=true&custom_title=Contribution%20Graph"
+      alt=""
+      width="95%"
+    />
+  </a>
+</p>
+
+<!-- FOOTER ─────────────────────────────────────────────────────── -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=80&color=8b5cf6&section=footer&reversal=true"
+    alt=""
+  />
+</p>
