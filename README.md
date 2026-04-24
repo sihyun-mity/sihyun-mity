@@ -24,28 +24,9 @@
     <td width="60%" valign="top">
       <h3>&nbsp;✦&nbsp; Stack</h3>
       <p>
-        <img src="https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
-        <img src="https://img.shields.io/badge/Gatsby-1a1a2e?style=flat-square&logo=gatsby&logoColor=a78bfa" />
-        <img src="https://img.shields.io/badge/Angular-1a1a2e?style=flat-square&logo=angular&logoColor=E23237" />
-        <img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=3178C6" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Tailwind-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-        <img src="https://img.shields.io/badge/SASS-1a1a2e?style=flat-square&logo=sass&logoColor=CC6699" />
-        <img src="https://img.shields.io/badge/styled--components-1a1a2e?style=flat-square&logo=styledcomponents&logoColor=DB7093" />
-        <img src="https://img.shields.io/badge/CSS-1a1a2e?style=flat-square&logo=css&logoColor=3b82f6" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Dart-1a1a2e?style=flat-square&logo=dart&logoColor=0175C2" />
-        <img src="https://img.shields.io/badge/Flutter-1a1a2e?style=flat-square&logo=flutter&logoColor=02569B" />
-        <img src="https://img.shields.io/badge/React%20Native-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Electron-1a1a2e?style=flat-square&logo=electron&logoColor=9feaf9" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/AWS-1a1a2e?style=flat-square&logo=amazon&logoColor=FF9900" />
-        <img src="https://img.shields.io/badge/Firebase-1a1a2e?style=flat-square&logo=firebase&logoColor=FFCA28" />
-        <img src="https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032" />
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,nextjs,gatsby,angular,ts,tailwind,sass,styledcomponents,css,dart,flutter,electron,aws,firebase,git&perline=5&theme=dark" alt="tech stack" />
+        </a>
       </p>
     </td>
   </tr>
