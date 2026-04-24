@@ -9,17 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=sihyun-mity&label=profile%20views&color=8b5cf6&style=flat"
-    alt=""
-  />
-  <img
-    src="https://img.shields.io/github/followers/sihyun-mity?label=followers&style=flat&color=8b5cf6&labelColor=0f172a"
-    alt=""
-  />
-</p>
-
 <!-- ABOUT × STACK ──────────────────────────────────────────────── -->
 
 <p align="center">
