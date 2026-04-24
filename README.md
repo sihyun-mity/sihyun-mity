@@ -1,36 +1,25 @@
 <!-- HEADER ─────────────────────────────────────────────────────── -->
 
-<a href="https://github.com/sihyun-mity">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=8b5cf6&text=sihyun-mity&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20Crafting%20interfaces%20with%20care&descAlignY=60&descSize=16&descAlign=50"
-    alt="sihyun-mity"
-  />
-</a>
+<p align="center">
+  <a href="https://github.com/sihyun-mity">
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&height=220&color=8b5cf6&text=sihyun-mity&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20Crafting%20interfaces%20with%20care&descAlignY=60&descSize=16&descAlign=50"
+      alt="sihyun-mity"
+    />
+  </a>
+</p>
 
 <br />
 
 <!-- ABOUT × STACK ──────────────────────────────────────────────── -->
 
-<table align="center" width="100%">
-  <tr>
-    <td width="40%" valign="top">
-      <h3>&nbsp;✦&nbsp; About</h3>
-      <p>
-        &nbsp;&nbsp;<b>Frontend Engineer</b><br />
-        &nbsp;&nbsp;📍 Based in Seoul, KR<br />
-        &nbsp;&nbsp;💜 Obsessed with the details
-      </p>
-    </td>
-    <td width="60%" valign="top">
-      <h3>&nbsp;✦&nbsp; Stack</h3>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,nextjs,gatsby,angular,ts,tailwind,sass,styledcomponents,css,dart,flutter,electron,aws,firebase,git&perline=5&theme=dark" alt="tech stack" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/about.svg" alt="about" height="170" />
+  &nbsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,gatsby,angular,ts,tailwind,sass,styledcomponents,css,dart,flutter,electron,aws,firebase,git&perline=5&theme=dark" alt="tech stack" />
+  </a>
+</p>
 
 <br />
 
